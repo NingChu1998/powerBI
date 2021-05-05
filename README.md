@@ -1,19 +1,19 @@
 # PowerBI 貓空載運量數據分析
 
-* 以下為視覺化分析所使用的資料及清理資料分析遇到的問題. 
+## 以下為視覺化分析所使用的資料及清理資料分析遇到的問題. 
 
-* 使用資料集:  
+* >使用資料集:  
  
-  臺北市貓空纜車各站進出人次-臺北市交通統計查詢系統. 
+  >>>臺北市貓空纜車各站進出人次-臺北市交通統計查詢系統. 
   http://dotstat.taipei.gov.tw/pxweb2007P/Dialog/varval.asp?ma=TP10402M&ti=%BBO%A5%5F%A5%AB%BF%DF%AA%C5%C6l%A8%AE%A6U%AF%B8%B6i%A5X%A4H%A6%B8&path=../PXfile/CountyStatistics&lang=9&strList=L. 
 
-  臺北市立動物園歷年人數統計-臺北市立動物園. 
+   >>>臺北市立動物園歷年人數統計-臺北市立動物園. 
   https://www.zoo.gov.taipei/News_Content.aspx?n=185FCFADA1FEA0F7&sms=922BAE075F221DD4&s=BA3C2B1925FB8942. 
 
-  每日貓空纜車系統旅運量統計表-政府資料開放平臺. 
+   >>>每日貓空纜車系統旅運量統計表-政府資料開放平臺. 
   https://data.gov.tw/dataset/61793. 
 
-   貓空纜車團體預約統計資料. 
+   >>>貓空纜車團體預約統計資料. 
   https://data.gov.tw/dataset/61846整理資料時是否有遭遇哪些問題. 
 
   整合匯進70個csv資料檔於一個excel. 
